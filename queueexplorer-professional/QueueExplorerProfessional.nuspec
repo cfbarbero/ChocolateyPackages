@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>queueexplorer-professional</id>
+    <title>QueueExplorer Professional</title>
+    <version>3.3.1</version>
+    <authors>Dejan Grujic, Marija Grujic</authors>
+    <owners>Cris Barbero</owners>
+    <summary>Explorer-like MSMQ management</summary>
+    <description>## Explorer-like MSMQ management ##
+	
+With QueueExplorer you can do much more than with built-in management console - copy, move or delete messages, save and load, stress test, view and edit full message bodies (with special support for .Net serialized objects), and much more. 
+
+And it works with remote queues too!
+
+Note: The professional version of QueueExplorer requires a license.  It comes with a 14 day trial.</description>
+    <projectUrl>http://www.cogin.com/mq/index.php</projectUrl>
+    <tags>QueueExplorer admin msmq trial</tags>
+    <copyright></copyright>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
