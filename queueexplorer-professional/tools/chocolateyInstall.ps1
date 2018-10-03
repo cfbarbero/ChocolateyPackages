@@ -1,6 +1,6 @@
 ﻿$packageName = 'QueueExplorer-Professional'
 $installerType = 'EXE' 
-$url = 'http://www.cogin.com/download/mq/download.php?file=QueueExplorerPro3.3.1.exe'
+$url = 'https://www.cogin.com/download/mq/download.php?file=QueueExplorerPro4.2.23.exe'
 $silentArgs = '/silent'
 $validExitCodes = @(0) 
 
